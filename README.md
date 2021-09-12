@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shahidnazir145
 - 👀 I’m interested in ...Programming 
 - 🌱 I’m currently learning ...Python Programming 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Your Problem Solving 
 - 📫 How to reach me ...shahidjoyia5555@gmail.com
 
 <!---
